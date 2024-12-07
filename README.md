@@ -6,4 +6,4 @@ Additional features will be introduced in future updates.
 
 If you're interested in testing the beta version, you can download it from [releases page](https://github.com/rrpt66-M/Lazy-Webbrowser/releases/tag/main)
 
-**Note:** Since this is a beta version, there might be some bugs, but your feedback will help improve the browser for future releases.
+**Note:** Since this is a beta version, there might be some bugs, but your [feedback](https://github.com/rrpt66-M/Lazy-Webbrowser/issues) will help improve the browser for future releases.
